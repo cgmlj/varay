@@ -20,6 +20,16 @@
             "filterable": 0
         },
         {
+            "key": "csp_xb_ysgc",
+            "name": "影视工厂(XBiu)",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"
+        },
+        {
             "key": "csp_WoGG",
             "name": "玩偶哥哥(饭太硬)",
             "type": 3,
