@@ -1,6 +1,6 @@
 ﻿{
     "wallpaper": "https://xhdwc.tk/api/img.php",
-    "spider": "aHR0cHM6Ly9naXRodWIuY29tL2NnbWxqL3ZhcmF5L2Jsb2IvbWFpbi9jYy5qYXI=",
+    "spider": "https://raw.githubusercontent.com/cgmlj/varay/main/0.json",
     "lives": [
         {
             "name": "tvlive",
