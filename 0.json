@@ -1,5 +1,5 @@
 ﻿{
-    "spider": "./jar/top98_1.jar",
+    "spider": "https://github.com/cgmlj/varay/blob/main/0.jar",
     "lives": [
         {
             "name": "直播",
